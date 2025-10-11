@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/ecommerce-react/static/css/main.31d6cfe0.css",
+    "main.js": "/ecommerce-react/static/js/main.2db45dba.js",
+    "index.html": "/ecommerce-react/index.html",
+    "main.2db45dba.js.map": "/ecommerce-react/static/js/main.2db45dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2db45dba.js"
+  ]
+}
